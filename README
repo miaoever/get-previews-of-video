@@ -1,0 +1,7 @@
+Get preiviews of video from youku.com and tudou.com .
+
+The URL pattern for Youku: http://v.youku.com/v_show/id_xxxxxxxxxxxxxxx.html
+The URL pattern for Tudou: http://www.tudou.com/programs/view/3YEcNCi0cV
+
+You can see the example site from: 
+http://miaoo.in/test.php
